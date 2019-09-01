@@ -1,0 +1,12 @@
+
+.Display{
+    background-color: black;
+    font-size: 25px;
+    color:white;
+    padding: 10px;
+    float:right;
+    max-width: 200px;
+    /*text-overflow: ellipsis;
+    overflow: hidden;
+    word-break: break-all;*/
+}

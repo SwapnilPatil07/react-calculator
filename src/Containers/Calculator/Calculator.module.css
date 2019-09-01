@@ -1,0 +1,66 @@
+.Table{
+    background-color: black;
+    padding: 20px 5px;  
+    border-radius: 20px;
+    margin: auto;
+    margin-top:100px;
+}
+
+.Td{
+    padding: 3px;
+}
+
+.Sign{
+    background-color: #eae2e2;
+    color:black;
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+}
+
+.Sign:hover {
+    box-shadow: 0 2px 3px 0px #c3f1bd;
+    transform: translateY(-3px);
+}
+
+.Operation{
+    background-color:orange;
+    color:white;
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+}
+
+.Operation:hover {
+    box-shadow: 0 2px 3px 0px #c3f1bd;
+    transform: translateY(-3px);
+}
+
+.Number{
+    background-color: #585555;
+    color:white;
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    font-size: 20px;
+    border: none;
+    transition: all 0.3s ease 0s;
+    outline: none;
+}
+
+.Number:hover {
+    background-color:#ccc8c8;
+    color: black;
+    box-shadow: 0 2px 3px 0px #c3f1bd;
+    transform: translateY(-3px);
+}
+
+.Zero{
+    width:100px;
+}
